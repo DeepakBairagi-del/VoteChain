@@ -1,7 +1,6 @@
 import React from 'react'
 import Form from '../components/Form'
 import MainImage from '../components/MainImage'
-import './LogIn.css'
 import { useStateContext } from '../../context/stateContext'
 import toast from 'react-hot-toast'
 

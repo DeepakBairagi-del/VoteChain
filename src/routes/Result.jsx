@@ -1,5 +1,4 @@
 import React,{useState, useEffect} from 'react'
-import './LogIn.css'
 import UserNavOptions from '../components/UserNavOptions'
 import Navbar from '../components/Navbar'
 import { runFireworks } from '../lib/utils'

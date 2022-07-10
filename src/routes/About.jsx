@@ -1,5 +1,4 @@
 import React from 'react'
-import './LogIn.css'
 import UserNavOptions from '../components/UserNavOptions'
 import Navbar from '../components/Navbar'
 import { useStateContext } from '../../context/stateContext'

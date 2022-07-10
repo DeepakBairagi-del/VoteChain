@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import './Login.css'
 import AdminNavOptions from '../components/AdminNavOptions'
 import Navbar from '../components/Navbar'
 import { useStateContext } from '../../context/stateContext'
