@@ -30,8 +30,8 @@ const AdminLogIn = () => {
           ButtonText= 'LOGIN'
         />
        
-        <h5>Admin email: admin@gmail.com</h5>
-        <h5 style={{marginTop:'-20px'}}>Admin password: Admin@123</h5>
+        <h5 style={{color: "gray"}}>Admin email: admin@gmail.com</h5>
+        <h5 style={{marginTop:'-20px',color: "gray"}}>Admin password: Admin@123</h5>
       </div>
     </div>
   )

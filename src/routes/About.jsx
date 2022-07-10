@@ -28,7 +28,7 @@ const About = () => {
                   for their favorite person and see the result when the voting is done.
                 </p>
                 <p>
-                  So basically its the traditional voting system but what's new here is the immutability of the data
+                  So basically its the traditional voting system but soon i am going to make the decentralised version of it , what will be new there is the immutability of the data
                   which is being possible by introducing the smart contract in this webApp which is written in solidity language on etherium blockchain
                   and which makes this WebApp a web 3.0 webApp. 
                 </p>
