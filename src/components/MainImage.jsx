@@ -1,5 +1,5 @@
 import React from 'react'
-import '../routes/Login'
+import '../routes/Login.css'
 
 const MainImage = () => {
   return (

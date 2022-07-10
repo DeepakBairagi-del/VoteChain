@@ -1,7 +1,7 @@
 import React,{useState} from 'react'
 import UserNavOptions from '../components/UserNavOptions'
 import Navbar from '../components/Navbar'
-import './LogIn'
+import './LogIn.css'
 import { useStateContext } from '../../context/stateContext'
 import toast from 'react-hot-toast'
 
